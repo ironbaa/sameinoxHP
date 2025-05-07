@@ -1,0 +1,54 @@
+body{
+margin: 0;
+font-family: "DotGothic16", sans-serif;
+font-size: larger;
+}
+
+header{
+  background: #e6e6e6
+}
+
+.headerInner{
+  color: #848484;
+  max-width: 1000px;
+  height: 100px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainInner{
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  color: #7B818F;
+}
+
+/* h2{
+  border-width: 2px 0px 2px 0px ;
+  border-style: dotted;
+  border-color: #848484;
+} */
+
+h2{
+  background-image: url(image/sakananeko_20240216154212.jpg);
+  line-height: 60px;
+  padding: 0 15px;
+  color: #7B818F;
+  text-align: center;
+  font-weight:100;
+}
+
+footer{
+  background: #e6e6e6;
+  color: #848484;
+}
+
+.footerInner{
+  text-align: center;
+  margin-top: 50px;
+  padding: 30px;
+}
+
